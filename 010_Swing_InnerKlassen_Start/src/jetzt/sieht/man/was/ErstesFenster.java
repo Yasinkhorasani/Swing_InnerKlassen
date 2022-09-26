@@ -24,7 +24,7 @@ import javax.swing.*;
  * -> ErstesFenster ist auch serializable (über extends)
  * Hier: Warning....Lösung @SuppressWarnings("serial")
  * 
- * @author Alfa
+ * @author Yasin
  *
  */
 @SuppressWarnings("serial")
@@ -33,7 +33,7 @@ public class ErstesFenster extends JFrame{
 	/**
 	 * Innere Klassen haben Zugriff auf (private) Member(Attribute und Methoden) der äußeren Klasse
 	 * Hier ein ActionListener, der direkt auf die Uhrzeit-Anzeige zugreifen kann
-	 * @author Alfa
+	 * @author Yasin
 	 *
 	 */
 	public class InnerKlickHandler implements ActionListener{

@@ -14,7 +14,7 @@ import javax.swing.JLabel;
  * 
  * Referenztypen für KlickHandler: Object, KlickHandler, ActionListener
  * 
- * @author Alfa
+ * @author Yasin
  *
  */
 public class KlickHandler implements ActionListener{

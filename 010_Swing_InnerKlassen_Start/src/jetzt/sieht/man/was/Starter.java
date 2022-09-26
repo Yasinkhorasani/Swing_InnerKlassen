@@ -5,7 +5,7 @@ package jetzt.sieht.man.was;
  * Das Fenster wird sichtbar gemacht: setVisible(true)
  * setVisible(true) startet eine GUI-Thread
  * 
- * @author Alfa
+ * @author Yasin
  *
  */
 public class Starter {
